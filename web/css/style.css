@@ -1861,3 +1861,29 @@ h4.modal-title {
 }
 /*--//responsive--*/
 
+.grey-bg{
+    background: #f6f3f1;
+}
+
+.widget-contact-box{
+    padding: 40px 50px 35px 45px;
+    z-index: 1;
+}
+.widget-contact-box h4{
+    font-size: 24px;
+    margin-bottom: 25px 
+}
+
+.table-bordered{
+    border: 1px solid #dee2e6;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.pos-rel{
+    position: relative;
+}
